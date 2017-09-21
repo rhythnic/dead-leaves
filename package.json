@@ -45,5 +45,12 @@
     "transform": {
       "^.+\\.js$": "<rootDir>/node_modules/babel-jest"
     }
-  }
+  },
+  "keywords": [
+    "prune",
+    "filter",
+    "tree",
+    "clean",
+    "json"
+  ]
 }
