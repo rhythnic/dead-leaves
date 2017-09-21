@@ -1,6 +1,6 @@
 {
   "name": "dead-leaves",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Immutably prune JavaScript objects",
   "main": "lib/index.js",
   "repository": "git@github.com:rhythnic/dead-leaves.git",
