@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "transform-es2015-arrow-functions",
+    "transform-es2015-parameters",
+    "transform-es2015-block-scoping"
+  ],
+  "env": {
+    "test": {
+      "presets": ["es2015"]
+    },
+    "commonjs": {
+      "presets": ["es2015"]
+    }
+  }
+}
